@@ -41,7 +41,7 @@ Premium Winners (high price, high rating)
 Overpriced Poor Value (high price, low rating)
 ****Techniques Used**
 SQL CTEs
-Window Functions (RANK, ROW_NUMBER, PARTITION BY)
+Window Functions (RANK, PARTITION BY)
 Percentile analysis (PERCENTILE_CONT)
 Aggregations (AVG, COUNT)
 Statistical modelling (Z-scores)
